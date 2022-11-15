@@ -19,8 +19,8 @@ function Home() {
                     <div className="col-md-6">
                         <h1>Avalie sua escola</h1><br></br>
                         <p>
-                            Descubra como o uso correto da tecnologia pode melhorar o desempenho coletivo e individual de
-                            cada aluno
+                            Descubra como o uso correto da tecnologia pode melhorar o desempenho coletivo e 
+                            individual de cada aluno
                         </p>
                     </div>
                     <div className="col-md-6">
@@ -58,8 +58,8 @@ function Home() {
                     </div>
                     <h2>Um pouco sobre nós</h2>
                     <p>
-                        Somos uma ONG especializada em mensurar como as tecnologias disponíveis no mercado, estão sendo
-                        usadas de forma a reduzir a desigualdade aos recursos escolares.
+                        Somos uma ONG especializada em mensurar como as tecnologias disponíveis no mercado, 
+                        estão sendo usadas de forma a reduzir a desigualdade aos recursos escolares.
                     </p>
                 </div>
             </div>
@@ -93,8 +93,8 @@ function Home() {
                         />
                         <h2>GESTOR(A) DA SECRETARIA</h2>
                         <p>
-                            Faça sua avaliação e receba um feedback personalizado sobre como você pode auxiliar no uso de
-                            tecnologia.
+                            Faça sua avaliação e receba um feedback personalizado sobre como você pode auxiliar 
+                            no uso de tecnologia.
                         </p>
                     </div>
                 </div>

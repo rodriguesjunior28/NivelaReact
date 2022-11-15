@@ -5,47 +5,50 @@ import './style.css';
 function Contato() {
     return (
         <main>
-            <section class="OneC">
-                <div class="container">
-                    <div class="row text-center mt-5">
-                        <div class="col">
+            <section className="OneC">
+                <div className="container">
+                    <div className="row text-center mt-5">
+                        <div className="col">
                             <h1>CONTATO</h1>
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="TwoC">
-                <div class="container">
-                    <div class="row mt-5">
-                        <div class="col-md-6 mb-5">
+            <section className="TwoC">
+                <div className="container">
+                    <div className="row mt-5">
+                        <div className="col-md-6">
                             <form>
-                                <div class="mb-3">
-                                    <label for="exampleInputEmail1" class="form-label">EMAIL</label>
-                                    <input type="email" class="form-control" id="exampleInputEmail1"
+                                <div className="mb-3">
+                                    <label for="exampleInputEmail1" className="form-label">EMAIL</label>
+                                    <input type="email" className="form-control" id="exampleInputEmail1"
                                         aria-describedby="emailHelp" placeholder="Digite seu email"
                                     />
-                                    <div id="emailHelp" class="form-text"></div>
+                                    <div id="emailHelp" className="form-text"></div>
                                 </div>
-                                <div class="mb-3">
-                                    <label for="exampleInputText" class="form-label">ASSUNTO</label>
-                                    <input type="text" class="form-control" id="exampleInputText"
+                                <div className="mb-3">
+                                    <label for="exampleInputText" className="form-label">ASSUNTO</label>
+                                    <input type="text" className="form-control" id="exampleInputText"
                                         placeholder="Digite seu assunto"
                                     />
                                 </div>
-                                <div class="mb-3">
-                                    <label for="exampleInputTextarea1" class="form-label">MENSAGEM</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Digite sua mensagem"></textarea>
+                                <div className="mb-3">
+                                    <label for="exampleInputTextarea1" className="form-label">MENSAGEM</label>
+                                    <textarea 
+                                        className="form-control" 
+                                        id="exampleFormControlTextarea1" 
+                                        rows="3" 
+                                        placeholder="Digite sua mensagem">
+                                    </textarea>
                                 </div>
-                                <button id="estilo" type="submit" class="btn btn-primary">ENVIAR</button>
+                                <button id="estilo" type="submit" className="btn btn-primary">ENVIAR</button>
                             </form>
-                            <div class="col-md-6">
                             
-                            </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="ThreeC">
+            <section className="ThreeC">
             </section>
         </main>
     )
