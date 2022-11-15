@@ -13,7 +13,9 @@ function QuemSomos() {
             <section class="OneQS">
                 <div class="container">
                     <div class="row">
-                        <h1>ACESSE CONCEITOS, METODOLOGIAS E FERRAMENTAS PARA PROMOVER A<br></br>TRANSFORMAÇÃO DIGITAL DA EDUCAÇÃO.</h1>
+                        <h1>
+                            ACESSE CONCEITOS, METODOLOGIAS E FERRAMENTAS PARA PROMOVER A<br></br>TRANSFORMAÇÃO DIGITAL DA EDUCAÇÃO.
+                        </h1>
                     </div>
                 </div>
             </section>
@@ -90,14 +92,14 @@ function QuemSomos() {
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 text-center p-5">
-                            <img src={Imagem1} alt="computador" class=" " />
+                            <img src={Imagem1} alt="computador" />
                             <h2 class="mt-3">CIDADANIA DIGITAL</h2>
                             <p>
                                 Queremos qualificar os gestores e professores, para que ensinem aos alunos a respeito do uso responsável, crítico, seguro e inclusivo que a tecnologia pode oferecer.
                             </p>
                         </div>
                         <div class="col-md-3 text-center p-5">
-                            <img src={Imagem2} alt="computador" class=" " />
+                            <img src={Imagem2} alt="mochila" />
                             <h2 class="mt-3">FERRAMENTAS DE MAPEAMENTO</h2>
                             <p>
                                 Mapeie as competências digitais dos seus professores e planeje formações adequadas ao perfil e à necessidade da rede de ensino. Identifique ainda as políticas,
@@ -105,14 +107,14 @@ function QuemSomos() {
                             </p>
                         </div>
                         <div class="col-md-3 text-center p-5 h-100">
-                            <img src={Imagem3} alt="computador" class=" " />
+                            <img src={Imagem3} alt="cérebro" />
                             <h2 class="mt-3">FERRAMENTAS DE DIAGNÓSTICO</h2>
                             <p>
                                 Faça o diagnóstico do nível de adoção de tecnologia nas escolas de sua rede. O Nivela Tech - Diagnóstico é uma ferramenta online que irá ajudar nesse processo.
                             </p>
                         </div>
                         <div class="col-md-3 text-center p-5">
-                            <img src={Imagem4} alt="computador" class=" " />
+                            <img src={Imagem4} alt="computador" />
                             <h2 class="mt-3">FERRAMENTA DE PLANEJAMENTO</h2>
                             <p>
                                 Defina suas prioridades (objetivos específicos) e crie seu plano a partir de evidências e com base em informações concretas. O Nivela Tech - Planos é uma
@@ -147,7 +149,9 @@ function QuemSomos() {
             <section class="eightQS">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2>TEMOS CONCEITOS, METODOLOGIAS E FERRAMENTAS PARA PROMOVER A TRANFORMAÇÃO DIGITAL NA SUA ESCOLA.</h2>
+                        <h2>
+                            TEMOS CONCEITOS, METODOLOGIAS E FERRAMENTAS PARA PROMOVER A TRANFORMAÇÃO DIGITAL NA SUA ESCOLA.
+                        </h2>
                         <p>
                             Fornecemos suporte do inicio ao fim no processo de implementação.
                         </p>

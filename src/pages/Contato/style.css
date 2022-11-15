@@ -1,0 +1,22 @@
+.OneC h1{
+    font-size: 40px;
+    font-weight: 300;
+    color: #000000;
+    font-family: Arial;
+}
+
+.TwoC form{
+    font-weight: 550;
+    color: #000000;
+}
+
+.ThreeC{
+    background: url(../../assests/img/pexels-olena-bohovyk-17721232.png);
+    height: 300px;
+    background-size: cover;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+
+

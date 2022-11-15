@@ -36,7 +36,7 @@ function Home() {
                                 <label for="exampleInputPassword1" className="form-label">Senha</label>
                                 <input type="password" className="form-control" id="exampleInputPassword1"
                                     placeholder="Digite sua senha"
-                                 />
+                                />
                             </div>
                             <button type="submit" className="btn btn-primary">Enviar</button>
                         </form>
@@ -48,13 +48,13 @@ function Home() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4">
-                        <img src={Imagem1} alt="" />
+                        <img src={Imagem1} alt="computadores" />
                     </div>
                     <div className="col-md-4">
-                        <img src={Imagem2} alt="" />
+                        <img src={Imagem2} alt="meninos no computador" />
                     </div>
                     <div className="col-md-4">
-                        <img src={Imagem3} alt="" />
+                        <img src={Imagem3} alt="crianças estudando" />
                     </div>
                     <h2>Um pouco sobre nós</h2>
                     <p>
@@ -68,7 +68,7 @@ function Home() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4 ">
-                        <img src={Imagem4} alt="" 
+                        <img src={Imagem4} alt="carteira" 
                             className="bd-placeholder-img rounded-circle border border-dark p-3" 
                         />
                         <h2>DOCENTE</h2>
@@ -78,7 +78,7 @@ function Home() {
                         </p>
                     </div>
                     <div className="col-md-4 ">
-                        <img src={Imagem5} alt=""
+                        <img src={Imagem5} alt="chapéu de formatura"
                             className="bd-placeholder-img rounded-circle border border-dark p-3" 
                         />
                         <h2>DIRETOR(A)ESCOLAR</h2>
@@ -88,7 +88,7 @@ function Home() {
                         </p>
                     </div>
                     <div className="col-md-4 ">
-                        <img src={Imagem6} alt=""
+                        <img src={Imagem6} alt="escola"
                             className="bd-placeholder-img rounded-circle border border-dark p-3" 
                         />
                         <h2>GESTOR(A) DA SECRETARIA</h2>
@@ -104,13 +104,13 @@ function Home() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
-                        <img src={Imagem7} alt="" />
+                        <img src={Imagem7} alt="crianças no computador" />
                     </div>
                     <div className="col-md-6">
                         <h2>Casos de sucesso!</h2>
                         <p>
-                            Através de nossas metodologias mais de 70% das escolas que aderiram ao
-                            <strong>NivelaTech</strong> aumentaram sua nota no Ideb.
+                            Através de nossas metodologias mais de 70% das escolas que aderiram ao  
+                            <strong> NivelaTech</strong> aumentaram sua nota no Ideb.
                         </p>
                     </div>
                 </div>
